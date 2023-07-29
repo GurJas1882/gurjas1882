@@ -1,7 +1,7 @@
 ## Hey, I'm Jaskaran! 👋
 
 • I'm a passionate full-stack developer from Canada
-<br>• Began coding 7 years ago, became serious about it 3 years ago
+<br>• Began coding 7 years ago, became serious about it 4 years ago
 
 
 ## 💻 What I know:
