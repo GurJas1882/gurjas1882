@@ -2,7 +2,7 @@
 
 • 🇨🇦 Passionate full-stack developer from Canada
 <br>• 🚀 Started coding 7 years ago, got serious about it 4 years ago
-<br>• 💻 Primarily work with JavaScript and Node.j
+<br>• 💻 Primarily work with JavaScript and Node.js
 
 
 ## 💻 What I know:
